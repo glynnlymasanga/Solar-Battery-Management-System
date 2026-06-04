@@ -83,7 +83,7 @@ Solar Panel → MPPT Charger → 2S Li-Ion Battery → Protection & Balancing �
 
 ✅ Schematic capture completed
 
-⬜ PCB layout
+⬜ Simulation & PCB layout 
 
 ⬜ Hardware validation
 
