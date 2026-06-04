@@ -59,19 +59,19 @@ Solar Panel → MPPT Charger → 2S Li-Ion Battery → Protection & Balancing �
 
 ### Charger Section
 
-<img width="1262" height="664" alt="image" src="https://github.com/user-attachments/assets/33e99f31-b84d-46bc-bc64-88106bb71712" />
+<img width="1262" height="682" alt="image" src="https://github.com/user-attachments/assets/366f0fbf-8b6e-4d5b-81d9-980c2b0d8f65" />
 
-### Protection & Balancing Section
+### Cell Protection & Balancing Section
 
-<img width="978" height="322" alt="image" src="https://github.com/user-attachments/assets/25619421-3683-4384-9dc5-c110468b13c5" />
+<img width="1264" height="329" alt="image" src="https://github.com/user-attachments/assets/12c49fff-41bd-4a4e-8d5b-ee6bf189c886" />
 
 ### Power Path 
 
-<img width="977" height="465" alt="image" src="https://github.com/user-attachments/assets/007a7779-59c6-471a-8fbf-035ae1543b56" />
+<img width="1265" height="388" alt="image" src="https://github.com/user-attachments/assets/5bfa315a-f43f-455f-b5e6-084a2ae0148b" />
 
  ### 5V Supply
 
-<img width="981" height="382" alt="image" src="https://github.com/user-attachments/assets/4544926b-54a7-434b-b53c-8a549b2353d2" />
+<img width="1262" height="370" alt="image" src="https://github.com/user-attachments/assets/e1779cea-af8a-4d6d-bb57-200c5a35b271" />
 
 ## Project Status
 
