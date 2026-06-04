@@ -59,7 +59,7 @@ Solar Panel → MPPT Charger → 2S Li-Ion Battery → Protection & Balancing �
 
 ### Charger Section
 
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/85609985-ed2d-4687-804d-83651ab8c33b" />
+<img width="1262" height="664" alt="image" src="https://github.com/user-attachments/assets/33e99f31-b84d-46bc-bc64-88106bb71712" />
 
 ### Protection & Balancing Section
 
