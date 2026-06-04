@@ -63,7 +63,7 @@ Solar Panel → MPPT Charger → 2S Li-Ion Battery → Protection & Balancing �
 
 ### Cell Protection & Balancing Section
 
-<img width="1264" height="329" alt="image" src="https://github.com/user-attachments/assets/12c49fff-41bd-4a4e-8d5b-ee6bf189c886" />
+<img width="1255" height="319" alt="image" src="https://github.com/user-attachments/assets/2eb5b5fc-7aea-4c39-a3db-f2edd61f36d5" />
 
 ### Power Path 
 
