@@ -1,1 +1,1 @@
-Datasheets of components used in the project
+Datasheets of main components used in the project.
